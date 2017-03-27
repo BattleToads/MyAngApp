@@ -1,5 +1,5 @@
 var App;
 (function (App) {
-    angular.module("MyApp", ["ngRoute", "ngResource"]);
+    angular.module("MyAngApp", []);
 })(App || (App = {}));
 //# sourceMappingURL=app.js.map

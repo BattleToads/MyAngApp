@@ -1,3 +1,3 @@
 ﻿namespace App {
-    angular.module("MyApp", ["ngRoute", "ngResource"]);
+    angular.module("MyAngApp", []);    
 }
